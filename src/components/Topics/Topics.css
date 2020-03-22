@@ -1,0 +1,9 @@
+td {
+  width: 33%;
+  text-align: center;
+}
+
+input.form-control {
+  float: left;
+  width: 50%;
+}
